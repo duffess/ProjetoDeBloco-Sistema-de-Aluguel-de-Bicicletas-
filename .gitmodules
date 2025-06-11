@@ -1,0 +1,6 @@
+[submodule "site"]
+	path = site
+	url = https://github.com/duffess/FRONT-END-PB
+[submodule "programa"]
+	path = programa
+	url = https://github.com/duffess/BikeRental-AluguelDeBikes
